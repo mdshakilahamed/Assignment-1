@@ -1,0 +1,205 @@
+/*font family*/
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.btn-primary{
+    border-radius: 5px;
+    border: 0;
+    background: #E55473;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    height: 64px;
+    width: 150px;
+}
+
+
+
+/*header style*/
+.header{
+    background-color: rgba(229, 84, 115, 0.10);
+    height: 850px;
+    
+    
+}
+.banner{
+    margin-left: 100px;
+    display: flex;
+
+
+.banner-part{
+    color: #000000;
+    font-size: 70px;
+}
+    
+}
+.banner-greeting{
+    color: #000000;
+    font-size: 70px;
+}
+.banner-title{
+    color: #181818;
+    font-size: 70px;   
+}
+.title-pragaraph{
+    width: 585px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+}
+
+.featured-flowers{
+    margin-top: 100px;
+}
+.flowers-header{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.flowers-pragraph{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 400px;
+}
+
+.pink-lower{
+    margin-top: 50px;
+    display: flex;
+    gap: 20px;
+}
+
+.first-image{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+    margin-left: 50px;
+
+}
+
+.second-image{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
+   
+   
+
+}
+
+.third-image{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+
+
+}
+.sub-heading{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.fresh-flowers{
+    width: 1000px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-left: 250px;
+}
+.flowers-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 70px;
+
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-size: 15px;
+font-weight: 600;
+line-height: 35px;
+    
+}
+
+.hot-deal{
+    border-radius: 8px;
+    margin-top: 80px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.banner-greet{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+.gallery{
+    display: flex;
+    gap: 15px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.get-the{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 100px;
+
+}
+.coupon{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.latest-deals{
+    background-image: url(../img/Rectangle\ 9.png);
+    width: 1415px;
+height: 450px;
+margin-left: 50px;
+
+}
+
+.footer{
+    background-color: #111010;
+    height: 449px;
+    width: 1500px;
+}
+
+.flowershop{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 100px;
+
+}
+.shop-pragraph{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    
+}
+.copy{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+}
